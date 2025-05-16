@@ -1,0 +1,29 @@
+/* div { 
+    background-color: lightcoral;
+    display: inline;
+}*/
+
+#b1 {
+    background-color: rgba(0,0,255,0.5);
+    width:100px;
+    height:100px;
+    margin: 25px;
+    padding:25px;
+    display: inline-block;
+}
+#b2 {
+    background-color: rgba(0,0,255,0.75);
+    width:100px;
+    height:100px;
+    margin: 25px;
+    padding:25px;
+    display: inline-block;
+}  
+#b3 {
+    background-color: rgba(0,0,255,1);
+    width:100px;
+    height:100px;
+    margin: 25px;
+    padding:25px;
+    display: inline-block;
+}

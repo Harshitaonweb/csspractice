@@ -1,0 +1,36 @@
+/*div{
+    background-color: blue;
+}
+ or */
+#box {
+    background-color: blue;
+}
+
+
+ .heading{
+    color: red;
+}
+/*or 
+h1,h2,h3{
+    color: palevioletred;
+}
+*/
+button{
+    background-color: green;
+}
+
+p{
+    text-align: center;
+}
+
+#One {
+    font-family:Arial;
+    font-size: 16px;
+    line-height: 50px;
+}
+
+#Two {
+    font-family:cursive;
+    font-size: 10px;
+    text-transform:uppercase;
+}

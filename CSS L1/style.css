@@ -1,0 +1,62 @@
+/*for selecting specific elements by their name:-
+h1 {
+    color:rgb(10, 124, 132);
+}
+
+p {
+    color: #ff0000;
+}
+
+button {
+    color: rgb(65, 135, 7);
+    background-color: rgb(255, 255, 127);
+}
+
+body {
+    background-color: lightcoral;
+}
+*/
+/*For selecting every element and adding colour 
+*{
+    color: blueviolet;
+}
+
+/*for selecting specific/single value usind ID value */
+#headingOne{
+    color: rgb(64, 7, 88);
+}
+
+#headingTwo{
+    color: rgb(90, 35, 141);
+}
+
+#headingThree{
+    color:rgb(117, 35, 195)
+}
+/*for selecting multiple values using class values */
+.myclass{
+    color: rgb(14, 95, 44);
+}
+
+p {
+    text-align: center;
+    text-decoration: palevioletred double overline;
+}
+
+h1 {
+    text-align: center;
+    text-decoration:rgb(11, 11, 230) dashed line-through;
+}
+
+h2{
+    text-decoration:rgb(234, 2, 223)wavy underline; 
+}
+
+a{
+    text-decoration: none;
+    color:crimson;
+}
+
+h3 {
+    text-decoration:rgb(152, 144, 23) dotted underline;
+}

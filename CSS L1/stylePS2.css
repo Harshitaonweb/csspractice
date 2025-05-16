@@ -1,0 +1,18 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+   text-align: center; 
+   text-transform: capitalize
+}
+
+pre{
+    color: crimson;
+    text-decoration: overline;
+}
+#Outer {
+    font-size: 25px;
+}
+#Inner {
+    font-size: 10px;
+}
